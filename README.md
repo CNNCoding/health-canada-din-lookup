@@ -7,9 +7,17 @@ This project is a Google Sheets automation tool developed for a medical company 
 ## Business Impact
 
 * **Saved ~10 man-hours per week** previously spent on manual DIN lookups.
-* Added DIN numbers to an extensive database of **over 10,000 medications**.
+* Added DIN numbers to an extensive database of **6,000+ medications**.
 * Reduced data errors by **up to 35%**.
 * Created a **standardized database** that became the main source of truth for multiple other systems, improving overall data accuracy and consistency.
+
+## Demo
+
+A short GIF demonstration of the tool in action is available below:
+
+![DIN Lookup Demo](demo.gif)
+
+> Note: Full 1.5-minute video demo is available upon request.
 
 ## Features
 
