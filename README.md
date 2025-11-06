@@ -15,7 +15,7 @@ This project is a Google Sheets automation tool developed for a medical company 
 
 A short GIF demonstration of the tool in action is available below:
 
-<img src="din-lookup-demo.gif" alt="DIN Lookup Demo" width="700">
+![DIN Lookup Demo](din-lookup-demo.gif)
 
 
 > Note: Full 1.5-minute video demo is available upon request.
